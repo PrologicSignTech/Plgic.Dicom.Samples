@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Anonymize/Anonymize.csproj" />
+  <Project Path="ConvertToDicom/ConvertToDicom.csproj" />
+  <Project Path="DumpFile/DumpFile.csproj" />
+  <Project Path="EchoScu/EchoScu.csproj" />
+  <Project Path="LargeFile/LargeFile.csproj" />
+  <Project Path="StoreScp/StoreScp.csproj" />
+  <Project Path="StoreScu/StoreScu.csproj" />
+</Solution>
